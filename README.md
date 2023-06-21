@@ -17,3 +17,5 @@
 </div><br/>
 
 Apaixonado por tecnologia, educação e gastronomia! 
+
+1[Snake animation](https://github.com/ricocezar/ricocezar/blob/output/github-contribution-grid-snake.svg)
