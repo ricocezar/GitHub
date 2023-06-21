@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rcmgodoy/)
 [![Pitch Pessoal](https://img.shields.io/badge/PitchPessoal-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/-FjChBtAx2E)
-[![E-mail](https://img.shields.io/badge/-E-mail-986DFF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ricocezar@yahoo.com)](mailto:ricocezar@yahoo.com)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ricocezar@yahoo.com)
 
 
 ## Tecnologias que eu uso
