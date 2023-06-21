@@ -1,5 +1,9 @@
 ## Olá! Eu sou o Ricardo Marinho 🖐️
 
+Apaixonado por tecnologia, educação e gastronomia!
+
+## Minhas Redes Sociais
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rcmgodoy/)
 [![Pitch Pessoal](https://img.shields.io/badge/PitchPessoal-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/-FjChBtAx2E)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ricocezar@yahoo.com)
@@ -16,4 +20,4 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologia, educação e gastronomia!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sofiamarchetti&label=Profile%20views&color=880eb4&style=plastic" alt="sofiamarchetti" /> </p>
